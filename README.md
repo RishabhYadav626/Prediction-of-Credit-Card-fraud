@@ -53,5 +53,4 @@ The Random Forest model achieved the highest accuracy among the tested classifie
 ## Contributors
 
 - [Name - Rishabh Yadav]
-- [Email _ rishabhyadav451997@gmail.com]
 - [GitHub Profile _ RishabhYadav626]
